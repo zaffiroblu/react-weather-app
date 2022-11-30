@@ -1,0 +1,35 @@
+{
+	"coord": { "lon": 73.4, "lat": 55 },
+	"weather": [
+		{
+			"id": 620,
+			"main": "Snow",
+			"description": "light shower snow",
+			"icon": "13n"
+		}
+	],
+	"base": "stations",
+	"main": {
+		"temp": 263.09,
+		"feels_like": 256.09,
+		"temp_min": 263.09,
+		"temp_max": 263.09,
+		"pressure": 1004,
+		"humidity": 78
+	},
+	"visibility": 2600,
+	"wind": { "speed": 5, "deg": 310 },
+	"clouds": { "all": 75 },
+	"dt": 1668598525,
+	"sys": {
+		"type": 2,
+		"id": 69386,
+		"country": "RU",
+		"sunrise": 1668566383,
+		"sunset": 1668596565
+	},
+	"timezone": 21600,
+	"id": 1496153,
+	"name": "Omsk",
+	"cod": 200
+}

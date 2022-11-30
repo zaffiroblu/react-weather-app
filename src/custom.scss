@@ -1,0 +1,128 @@
+/* make the customizations */
+$theme-colors: (
+	'primary': #eb6e4b,
+	'secondary': #2b2b2b,
+	'info': #ffff,
+	'Clear': #85cffa,
+	'Clouds': #bbdff0,
+	'Rain': #8f9fa0,
+	'Snow': #f5fafd,
+);
+
+.backg-Ash,
+.backg-Smoke {
+	background-image: url(./images/smoke-pic.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.backg-col-Ash,
+.backg-col-Smoke {
+	background-color: rgba(39, 33, 26, 0.9);
+}
+
+.backg-Clear {
+	background-image: url(./images/clear-pic.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.backg-col-Clear {
+	background-color: rgba(24, 59, 114, 0.9);
+}
+
+.backg-Clouds {
+	background-image: url(./images/clouds-pic.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.backg-col-Clouds {
+	background-color: rgba(43, 67, 82, 0.9);
+}
+
+.backg-Drizzle {
+	background-image: url(./images/drizzle-pic.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.backg-col-Drizzle {
+	background-color: rgba(48, 62, 60, 0.9);
+}
+
+.backg-Dust,
+.backg-Sand {
+	background-image: url(./images/dust-pic.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.backg-col-Dust,
+.backg-col-Sand {
+	background-color: rgba(61, 51, 41, 0.9);
+}
+
+.backg-Fog,
+.backg-Haze,
+.backg-Mist {
+	background-image: url(./images/fog-pic.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.backg-col-Fog,
+.backg-col-Haze,
+.backg-col-Mist {
+	background-color: rgba(65, 61, 53, 0.9);
+}
+
+.backg-Hail {
+	background-image: url(./images/hail-pic.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.backg-col-Hail {
+	background-color: rgba(66, 66, 66, 0.9);
+}
+
+.backg-Squall,
+.backg-Thunderstorm,
+.backg-Tornado {
+	background-image: url(./images/thunderstorm-pic.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.backg-col-Squall,
+.backg-col-Thunderstorm,
+.backg-col-Tornado {
+	background-color: rgba(44, 47, 83, 0.9);
+}
+
+.backg-Rain {
+	background-image: url(./images/rain-pic.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.backg-col-Rain {
+	background-color: rgba(16, 70, 92, 0.9);
+}
+
+.backg-Snow {
+	background-image: url(./images/snow-pic.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.backg-col-Snow {
+	background-color: rgba(58, 52, 67, 0.9);
+}
+
+.backg-col-Error {
+	background-color: rgba(43, 43, 43, 0.75);
+}
+
+@import '~bootstrap/scss/bootstrap';

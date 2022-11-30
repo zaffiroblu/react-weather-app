@@ -1,0 +1,121 @@
+@import 'custom';
+
+.fit-screen-search {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.content-area {
+	height: 78vh;
+}
+
+.fit-screen-weather {
+	width: 100vw;
+	height: 100%;
+	flex-direction: column;
+}
+
+.logo {
+	height: 3rem;
+	margin: 0.9rem;
+}
+
+.text-line {
+	background-color: transparent;
+	height: auto;
+	font-size: 1.3rem;
+	color: #eeeeee;
+	outline: none;
+	outline-style: none;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: solid #eeeeee 1px;
+	padding: 3px 10px;
+}
+
+.break-text {
+	word-break: break-word;
+}
+
+.add-padding {
+	padding-top: 2%;
+	padding-bottom: 1%;
+}
+
+// For landscape-mode:
+@media (min-aspect-ratio: 1/1) {
+	.asp-rat-layout {
+		flex-direction: row;
+		align-items: end;
+	}
+
+	.asp-rat-text-size {
+		font-size: 1.3rem;
+	}
+
+	.fit-screen-weather {
+		padding: 12%;
+	}
+
+	.add-margin {
+		margin-right: 10%;
+	}
+
+	@media (min-width: 950px) {
+		.top-bar {
+			padding: 2%;
+		}
+	}
+
+	@media (min-width: 1200px) {
+		.fit-screen-weather {
+			padding: 20%;
+		}
+	}
+
+	@media (min-width: 1600px) {
+		.fit-screen-weather {
+			padding: 25%;
+		}
+	}
+}
+
+// For portrait-mode:
+@media (max-aspect-ratio: 1/1) {
+	.asp-rat-layout {
+		flex-direction: column;
+	}
+	.asp-rat-text-size {
+		font-size: 1.5rem;
+	}
+	.top-bar {
+		height: 22vh;
+	}
+
+	.fit-screen-weather {
+		padding: 12%;
+	}
+
+	@media (max-width: 300px) {
+		.text-line {
+			font-size: 0.8rem;
+		}
+	}
+
+	@media (min-width: 750px) {
+		.fit-screen-weather {
+			padding: 20%;
+		}
+	}
+
+	@media (min-width: 750px) {
+		.fit-screen-weather {
+			padding: 20%;
+		}
+	}
+}
+
+@import '~bootstrap/scss/bootstrap';
