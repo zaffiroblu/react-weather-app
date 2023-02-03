@@ -28,7 +28,7 @@ function CitySearch() {
 				<div className='d-flex justify-content-center add-margin'>
 					<img className='logo' src={Logo} alt='Logo' />
 				</div>
-				<div className='d-flex justify-content-end align-items-center'>
+				<div className='d-flex justify-content-end align-items-center my-2'>
 					<input
 						className='text-line'
 						type='text'
