@@ -103,6 +103,15 @@
 	@media (max-width: 300px) {
 		.text-line {
 			font-size: 0.8rem;
+			padding: 0px;
+			margin-right: 10px;
+		}
+	}
+
+	@media (max-width: 400px) {
+		.text-line {
+			padding: 0px;
+			margin-right: 10px;
 		}
 	}
 
