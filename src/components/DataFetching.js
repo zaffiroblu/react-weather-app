@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import DisplayError from './DisplayError';
 import FahrToggle from './FahrToggle';
-// import WeeklyWeatherButton from './WeeklyWeatherButton';
 
 function DataFetching(props) {
 	const { cityFromButtonClick } = props;
@@ -55,5 +54,3 @@ function DataFetching(props) {
 }
 
 export default DataFetching;
-
-///data/dummy-data-${cityFromButtonClick}.json

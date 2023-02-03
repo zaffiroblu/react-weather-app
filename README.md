@@ -2,9 +2,24 @@ Thunderstorm: Image by <a href="https://pixabay.com/users/felixmittermeier-43972
 
 Clouds: Image by <a href="https://pixabay.com/users/phtorxp-3603324/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1768967">Džoko Stach</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1768967">Pixabay</a>
 
-Sun: Image by <a href="https://pixabay.com/users/jplenio-7645255/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3588618">Joe</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3588618">Pixabay</a>
+Sun: Image by <a href="https://pixabay.com/users/jplenio-7645255/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3588618">Joe</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3588618">Pixabay</a> https://pixabay.com/photos/sun-sky-blue-sunlight-sunbeam-3588618/
 
 Snow: Image by <a href="https://pixabay.com/users/kristamonique-76979/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=201496">kristamonique</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=201496">Pixabay</a>
+
+Haze: Photo by <a href="https://unsplash.com/@designervn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">DesignerVN</a> on <a href="https://unsplash.com/s/photos/haze?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
+Smoke: Photo by <a href="https://unsplash.com/@lauravinck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Laura Vinck</a> on <a href="https://unsplash.com/s/photos/smoke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Dust: Photo by <a href="https://unsplash.com/@artinbakhan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Artin Bakhan</a> on <a href="https://unsplash.com/s/photos/dust?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Ash:
+ Photo by <a href="https://unsplash.com/@david_mccumskay?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">David McCumskay</a> on <a href="https://unsplash.com/s/photos/smoke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+ Mist: 
+ Photo by <a href="https://unsplash.com/@juno1412?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">KWON JUNHO</a> on <a href="https://unsplash.com/s/photos/smoke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+  
 
 # Getting Started with Create React App
 

@@ -9,6 +9,9 @@ $theme-colors: (
 	'Snow': #f5fafd,
 );
 
+// These are the classes that get added to the background
+// depending on the weather info for a particular place
+// coming in from the OpenWeather API.
 .backg-Ash,
 .backg-Smoke {
 	background-image: url(./images/smoke-pic.jpg);

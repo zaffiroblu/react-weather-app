@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import DataFetchingWeekly from './DataFetchingWeekly';
 
+// This component will be finished later -- it's for displaying the weekly weather.
+
 function WeeklyWeatherButton(props) {
 	const { data } = props;
 

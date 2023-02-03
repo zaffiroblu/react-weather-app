@@ -7,8 +7,9 @@ function CitySearch() {
 	//"cityInput" and "setCityInput" are there so the user can see what they are typing in
 	// the input field.
 	const [cityInput, setCityInput] = useState(1);
-	//"cityFromButtonClick" and "setCityFromButtonClick" are there so there is a state
-	// for saving the value of "city" AT THE POINT OF THE BUTTON CLICK (as opposed to the //// display within the input field.)
+	//"cityFromButtonClick" and "setCityFromButtonClick" are there so there's a state
+	// for saving the value of "city" at the point of clicking "search" (as opposed to the
+	// display within the input field.)
 	const [cityFromButtonClick, setCityFromButtonClick] = useState('');
 
 	const handleClick = () => {
@@ -29,7 +30,7 @@ function CitySearch() {
 				</div>
 				<div className='d-flex justify-content-end align-items-center m-2'>
 					<input
-						className='m-1 text-line'
+						className='text-line'
 						type='text'
 						placeholder='Enter city'
 						id={cityInput}
@@ -37,7 +38,7 @@ function CitySearch() {
 						onKeyPress={(e) => onEnterPress(e)}
 					></input>
 					<Button
-						className='mx-3 text-info'
+						className='text-info'
 						variant='primary'
 						onClick={handleClick}
 					>

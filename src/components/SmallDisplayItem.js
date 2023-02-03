@@ -1,5 +1,8 @@
 import React from 'react';
 
+// This component can be recycled to display several of the smaller
+// info boxes in the UI.
+
 const SmallDisplayItem = (props) => {
 	const { text, dataProp } = props;
 	return (
@@ -11,5 +14,5 @@ const SmallDisplayItem = (props) => {
 		</div>
 	);
 };
-// ${props.dataUnit}
+
 export default SmallDisplayItem;
